@@ -21,8 +21,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/MykeStan/Jogo-Numero-Secreto-JS.git) ou [baixá-lo](https://github.com/Jogo-Numero-Secreto-JS/archive/refs/heads/main.zip).
-
+Você pode [acessar o código fonte do projeto inicial](https://github.com/MykeStan/Jogo-Numero-Secreto-JS.git) ou [baixá-lo](https://codeload.github.com/MykeStan/Jogo-Numero-Secreto-JS/zip/refs/heads/main)
 ## 🛠️ ABRIR E RODAR O PROJETO
 ####  2️⃣ Maneiras:
 1 - Acesse pela [Vercel](https://alura-projeto-portifolio.vercel.app/).
