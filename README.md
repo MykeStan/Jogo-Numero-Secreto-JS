@@ -1,12 +1,12 @@
-# Jogo do Número Secreto em JavaScript
+# Jogo do Número Secreto em JavaScript 🔢
 Jogo desenvolvido em JavaScript onde o usuário deve adivinhar o número gerado pela máquina.
-
 
 ## 🔨 Funcionalidades do projeto
 Você pode escolher o número secreto por digitação ou pelo seletor, conta com a opção de Responsive Voice, permitindo por meio de Português-BR a leitura dos textos da página.
 Acertando o número secreto o jogo lhe informa a quantidade de tentativas realizadas e permite a inicialização de um novo jogo.
 O jogo conta também com a não repetição de números já sorteados.
 
+![numSecret](https://github.com/MykeStan/Jogo-Numero-Secreto-JS/assets/127412518/ec5a1dde-80a7-4d19-b784-280d46687f58)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
