@@ -21,18 +21,19 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/) ou [baixá-lo](https://github.com/).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/MykeStan/Jogo-Numero-Secreto-JS.git) ou [baixá-lo](https://github.com/Jogo-Numero-Secreto-JS/archive/refs/heads/main.zip).
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ ABRIR E RODAR O PROJETO
+####  2️⃣ Maneiras:
+1 - Acesse pela [Vercel](https://alura-projeto-portifolio.vercel.app/).
 
-Você pode acessá-lo pela Varcel. Ou após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na tela de launcher clique em:
+2 - Após baixar o projeto, você pode abrir com o [VSCode](https://code.visualstudio.com/). Para isso, clique em:
 
-- **Open an Existing Project** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+- **Abrir pasta...** (Ctrl K Ctrl O).
+- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo).
+- Por fim clique em OK.
+- No canto inferior esquerdo abra o Live Server 📡.
 
-O Android Studio deve executar algumas tasks do Gradle para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
+## 📚 MAIS INFORMAÇÕES
 
-## 📚 Mais informações
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/android-kotlin-personalize-app) que desenvolve o projeto desde o começo!
+Gostou do projeto e quer conhecer mais? Você pode acessar o meu [perfil com mais projetos](https://github.com/MykeStan).
